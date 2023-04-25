@@ -180,7 +180,7 @@ console.log(genreplotvalueprof)
 };
 
 function imagedropdown(imgid,newimg){
-    document.getElementById(imgid).src="images/"+newimg+".jpg"
+    document.getElementById(imgid).src="webpages/images/"+newimg+".jpg"
 }
 
 function optionChanged(value) { 
